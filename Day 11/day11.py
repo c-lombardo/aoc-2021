@@ -1,4 +1,4 @@
-# advent of code 2021 day 10
+# advent of code 2021 day 11
 
 with open("day11_in.txt") as f:
 	lines = [line.strip() for line in f.readlines()]
